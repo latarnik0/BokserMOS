@@ -15,9 +15,7 @@ Na razie, ze względu na skomplikowanie mechaniczne maszyny stojącej (budowa ob
 - Raspberry Pi Pico H (do LCD)
 - Wyświetlacz LCD (20x4)
 - Potencjometr liniowy
-- Przyciski
-- Przełącznik On/Off
-- Inne: płytka stykowa, kable, przejściówka na potencjometr
+- Inne: Płytka stykowa, Kable, Przejściówka na potencjometr, Przełącznik On/Off, Przyciski
 
 # DODATKOWE INFORMACJE
 - **Data rozpoczęcia:** październik 2025

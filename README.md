@@ -10,7 +10,9 @@ Użytkownik wpisuje swój nick wybierając pojedyncze litery za pomocą gałki p
 Na razie, ze względu na skomplikowanie mechaniczne maszyny stojącej (budowa obudowy, ramy) proponuję zrobienie gruszki wiszącej z akcelerometrem i wyświetlaczem. W zadaniach do zrobienia w nawiasach będzie litera **(W)** - wisząca lub **(S)** - stojąca.
 
 # WYKORZYSTANY SPRZĘT (dotychczas)
-- Raspberry Pi Pico H
+- ESP32-C3
+- Akcelerometr MPU-6050
+- Raspberry Pi Pico H (do LCD)
 - Wyświetlacz LCD (20x4)
 - Potencjometr liniowy
 - Przyciski

@@ -25,6 +25,6 @@ Na razie, ze względu na skomplikowanie mechaniczne maszyny stojącej (budowa ob
 # DO ZROBIENIA
 - Zrobić gruchę prowizorycznie (może potem kupi się profesjonalną). **(W) (S)**
 - Zrobić czujnik siły uderzenia. Najlepiej tensometr/acelerometr bo piezo jest zbyt kruche. **(W) (S)**
-- Sposób na montaż i umiejscowienie elektroniki. Grucha będzie wisieć ale elektronika musi być stabilna. **(S)**
-- Zrobić mechanizm opuszczania gruchy. Ramie opuszczające musi być solidne żeby wytrzymało wielokrotne uderzenia. **(W)**
-- Zrobić obudowę. Musi być dobrze dociążona żeby się nie przewróciła podczas uderzania. **(W)**
+- Sposób na montaż i umiejscowienie elektroniki. Grucha będzie wisieć ale elektronika musi być stabilna. **(W)**
+- Zrobić mechanizm opuszczania gruchy. Ramie opuszczające musi być solidne żeby wytrzymało wielokrotne uderzenia. **(S)**
+- Zrobić obudowę. Musi być dobrze dociążona żeby się nie przewróciła podczas uderzania. **(S)**
